@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'keywordio',  
         'USER': 'username',  
         'PASSWORD': 'Pavankumar1@',  
-        'HOST': '192.168.0.32',  
+        'HOST': 'mysqltest.com',  
         'PORT': '3306',  
         'OPTIONS': {  
         'init_command': "SET sql_mode='STRICT_TRANS_TABLES'"  }
